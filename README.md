@@ -1,4 +1,4 @@
-# Asynchronous_fifo
+
 # Asynchronous_FIFO
 # Design of Dual Clock Asynchronous FIFO
 This project shows the design of Asynchronous FIFO
