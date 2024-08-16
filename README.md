@@ -45,5 +45,7 @@ The primary advantage of asynchronous FIFOs lies in their ability to handle data
 
 ## Conclusion:
 Asynchronous FIFOs serve as essential building blocks in modern digital systems, enabling efficient and reliable data transfer between different clock domains. Their ability to handle data flow without the constraints of a common clock signal enhances system flexibility and performance. As technology advances and the demand for high-speed and heterogeneous systems grows, the significance of asynchronous FIFOs in maintaining coherent data exchange remains steadfast. Effective utilization and understanding of asynchronous FIFOs empower digital designers to conquer challenges related to data synchronization and flow, paving the way for innovative and robust system architectures.
-
-
+## Results 
+![image](Results/Results1.png)
+![image](Results/Results2.png)
+![image](Results/Results3.png)
